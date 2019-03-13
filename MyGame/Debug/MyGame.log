@@ -1,0 +1,6 @@
+﻿  Character.cpp
+c:\users\user\source\repos\mygame\mygame\character.cpp(82): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\user\source\repos\mygame\mygame\character.cpp(83): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+  GameControl.cpp
+  コードを生成中...
+  MyGame.vcxproj -> C:\Users\user\source\repos\MyGame\Debug\MyGame.exe

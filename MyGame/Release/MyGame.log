@@ -1,0 +1,77 @@
+﻿  Base.cpp
+  Bomb.cpp
+  Character.cpp
+c:\users\user\source\repos\mygame\mygame\character.cpp(82): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\user\source\repos\mygame\mygame\character.cpp(83): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+  Enemy.cpp
+c:\users\user\source\repos\mygame\mygame\enemy.cpp(113): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\user\source\repos\mygame\mygame\enemy.cpp(283): warning C4101: '_muki': ローカル変数は 1 度も使われていません。
+c:\users\user\source\repos\mygame\mygame\enemy.cpp(361): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\user\source\repos\mygame\mygame\enemy.cpp(369): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\user\source\repos\mygame\mygame\enemy.cpp(376): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\utility(172): warning C4244: '初期化中': 'double' から '_Ty1' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Ty1=int
+          ]
+  c:\users\user\source\repos\mygame\mygame\enemy.cpp(18): note: コンパイル対象の関数 テンプレート インスタンス化 'std::pair<int,int>::pair<double&,double&,0>(_Other1,_Other2) noexcept' のリファレンスを確認してください
+          with
+          [
+              _Other1=double &,
+              _Other2=double &
+          ]
+  c:\users\user\source\repos\mygame\mygame\enemy.cpp(13): note: コンパイル対象の関数 テンプレート インスタンス化 'std::pair<int,int>::pair<double&,double&,0>(_Other1,_Other2) noexcept' のリファレンスを確認してください
+          with
+          [
+              _Other1=double &,
+              _Other2=double &
+          ]
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\utility(173): warning C4244: '初期化中': 'double' から '_Ty2' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Ty2=int
+          ]
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\utility(172): warning C4244: '初期化中': '_Ty' から '_Ty1' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty1=int
+          ]
+  c:\users\user\source\repos\mygame\mygame\enemy.cpp(22): note: コンパイル対象の関数 テンプレート インスタンス化 'std::pair<int,int>::pair<double,double,0>(_Other1 &&,_Other2 &&) noexcept' のリファレンスを確認してください
+          with
+          [
+              _Other1=double,
+              _Other2=double
+          ]
+  c:\users\user\source\repos\mygame\mygame\enemy.cpp(22): note: コンパイル対象の関数 テンプレート インスタンス化 'std::pair<int,int>::pair<double,double,0>(_Other1 &&,_Other2 &&) noexcept' のリファレンスを確認してください
+          with
+          [
+              _Other1=double,
+              _Other2=double
+          ]
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\utility(173): warning C4244: '初期化中': '_Ty' から '_Ty2' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty2=int
+          ]
+  Field.cpp
+c:\users\user\source\repos\mygame\mygame\field.cpp(136): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+  Fire.cpp
+  Fps.cpp
+  GameModeCustom.cpp
+  GameControl.cpp
+  Main.cpp
+  Player.cpp
+c:\users\user\source\repos\mygame\mygame\player.cpp(25): warning C4018: '>=': signed と unsigned の数値を比較しようとしました。
+  SystemControl.cpp
+  コード生成しています。
+  All 447 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  MyGame.vcxproj -> C:\Users\user\source\repos\MyGame\Release\MyGame.exe
