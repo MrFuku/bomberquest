@@ -1,5 +1,5 @@
 # ボンバークエスト
-[紹介動画](https://youtu.be/9JlwA6b-B-U)
+[![](https://img.youtube.com/vi/NAXpwQ4vd-A/0.jpg)](https://www.youtube.com/watch?v=NAXpwQ4vd-A)
 
 ## アプリ概要
 - ボンバーマンを模した爆弾アクションゲーム
